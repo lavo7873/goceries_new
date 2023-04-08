@@ -79,7 +79,9 @@
 			    <div class="card_member border-0 shadow-lg pt-5 my-5 position-relative">
 				    <div class="card-body p-4">
 					    <div class="member-profile position-absolute w-100 text-center">
-					        <img class="rounded-circle mx-auto d-inline-block shadow-sm" src="https://bootdey.com/img/Content/avatar/avatar8.png" alt="">
+							<!-- change this image tag to change the image of team member -->
+					        <img class="rounded-circle mx-auto d-inline-block shadow-sm" src="https://bootdey.com/img/Content/avatar/avatar2.png" alt="">
+
 				        </div>
 					    <div class="card-text pt-1">
 						    <h5 class="member-name mb-0 text-center text-primary font-weight-bold">Alamayri Ayman</h5>
@@ -109,7 +111,7 @@
 			    <div class="card_member border-0 shadow-lg pt-5 my-5 position-relative">
 				    <div class="card-body p-4">
 					    <div class="member-profile position-absolute w-100 text-center">
-					        <img class="rounded-circle mx-auto d-inline-block shadow-sm" src="https://bootdey.com/img/Content/avatar/avatar8.png" alt="">
+					        <img class="rounded-circle mx-auto d-inline-block shadow-sm" src="https://bootdey.com/img/Content/avatar/avatar2.png" alt="">
 				        </div>
 					    <div class="card-text pt-1">
 						    <h5 class="member-name mb-0 text-center text-primary font-weight-bold">Jammalamadaka Hemant</h5>
@@ -138,7 +140,7 @@
 			    <div class="card_member border-0 shadow-lg pt-5 my-5 position-relative">
 				    <div class="card-body p-4">
 					    <div class="member-profile position-absolute w-100 text-center">
-					        <img class="rounded-circle mx-auto d-inline-block shadow-sm" src="https://bootdey.com/img/Content/avatar/avatar3.png" alt="">
+					        <img class="rounded-circle mx-auto d-inline-block shadow-sm" src="https://bootdey.com/img/Content/avatar/avatar2.png" alt="">
 				        </div>
 					    <div class="card-text pt-1">
 						    <h5 class="member-name mb-0 text-center text-primary font-weight-bold">Vong Edward</h5>
@@ -152,7 +154,7 @@
 			    <div class="card_member border-0 shadow-lg pt-5 my-5 position-relative">
 				    <div class="card-body p-4">
 					    <div class="member-profile position-absolute w-100 text-center">
-					        <img class="rounded-circle mx-auto d-inline-block shadow-sm" src="https://bootdey.com/img/Content/avatar/avatar3.png" alt="">
+					        <img class="rounded-circle mx-auto d-inline-block shadow-sm" src="https://bootdey.com/img/Content/avatar/avatar2.png" alt="">
 				        </div>
 					    <div class="card-text pt-1">
 						    <h5 class="member-name mb-0 text-center text-primary font-weight-bold">Vong Lam</h5>
@@ -166,7 +168,7 @@
 			    <div class="card_member border-0 shadow-lg pt-5 my-5 position-relative">
 				    <div class="card-body p-4">
 					    <div class="member-profile position-absolute w-100 text-center">
-					        <img class="rounded-circle mx-auto d-inline-block shadow-sm" src="https://bootdey.com/img/Content/avatar/avatar3.png" alt="">
+					        <img class="rounded-circle mx-auto d-inline-block shadow-sm" src="https://bootdey.com/img/Content/avatar/avatar2.png" alt="">
 				        </div>
 					    <div class="card-text pt-1">
 						    <h5 class="member-name mb-0 text-center text-primary font-weight-bold">Wang Kyle</h5>
